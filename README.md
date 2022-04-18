@@ -1,4 +1,6 @@
 # BLS Wallet Demo App
+<img width="1728" alt="Screenshot 2022-04-18 at 5 21 11 AM" src="https://user-images.githubusercontent.com/23727056/163737751-ed3ff178-c72a-4a3c-9d41-d10d1626f1f4.png">
+
 
 ## How to setup
 
@@ -6,7 +8,7 @@
 
 eg -
 
-```
+```solidity
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
