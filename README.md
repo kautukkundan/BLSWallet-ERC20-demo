@@ -42,6 +42,9 @@ contract Spender {
     }
 }
 ```
+can clone this repo - https://github.com/kautukkundan/generic-ERC20-spender
+and run `npx hardhat run scripts/deploy.ts --network localhost`
+make sure to deploy on the same network as BLS contracts
 
 3. note the addresses for the 2 contracts
 4. update `.env` file with the 2 addresses
